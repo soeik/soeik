@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kirill (aka soeik) 🦔
 
-<!--
-**soeik/soeik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Architect | Product-Minded Engineer | Bridge Builder**
 
-Here are some ideas to get you started:
+I’m an engineer who enjoys getting to the heart of things. I specialize in transforming chaotic business requirements into clean, elegant, and human-centric interfaces. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe that behind every green CI/CD indicator stands a real person, and my mission is to be their advocate in the codebase.
+
+### What I’m up to:
+- 🏗️ Architecting frontend ecosystems at **Gazprombank**.
+- 🛠️ Mastering **React / Redux / TypeScript** for large-scale enterprise.
+- 📱 Developing a mobile journal app with **React Native**.
+- 🎹 Producing **Melodic House** and practicing **operatic vocals**.
+
+### Beyond the Code:
+I’m a big fan of analog aesthetics. When I'm not in VS Code, you'll likely find me with a film camera or at my piano. I find that music and photography keep my "empathy muscle" strong, which directly informs how I build software.
+
+
+
